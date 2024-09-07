@@ -1,0 +1,90 @@
+F:\C# Project\University Management System\University Management System\bin\Debug\University Management System.exe.config
+F:\C# Project\University Management System\University Management System\bin\Debug\University Management System.exe
+F:\C# Project\University Management System\University Management System\bin\Debug\University Management System.pdb
+F:\C# Project\University Management System\University Management System\obj\Debug\University Management System.csproj.AssemblyReference.cache
+F:\C# Project\University Management System\University Management System\obj\Debug\University Management System.csproj.SuggestedBindingRedirects.cache
+F:\C# Project\University Management System\University Management System\obj\Debug\University_Management_System.Administrator_LogIn.resources
+F:\C# Project\University Management System\University Management System\obj\Debug\University_Management_System.Faculty_LogIn.resources
+F:\C# Project\University Management System\University Management System\obj\Debug\University_Management_System.Form1.resources
+F:\C# Project\University Management System\University Management System\obj\Debug\University_Management_System.Properties.Resources.resources
+F:\C# Project\University Management System\University Management System\obj\Debug\University_Management_System.Student_Admission_Form.resources
+F:\C# Project\University Management System\University Management System\obj\Debug\University_Management_System.Student_LogIn.resources
+F:\C# Project\University Management System\University Management System\obj\Debug\University Management System.csproj.GenerateResource.cache
+F:\C# Project\University Management System\University Management System\obj\Debug\University Management System.csproj.CoreCompileInputs.cache
+F:\C# Project\University Management System\University Management System\obj\Debug\University Management System.exe
+F:\C# Project\University Management System\University Management System\obj\Debug\University Management System.pdb
+F:\C# Project\University Management System\University Management System\obj\Debug\University_Management_System.Student_profile.resources
+F:\C# Project\University Management System\University Management System\obj\Debug\University_Management_System.Student_courses.resources
+F:\C# Project\University Management System\University Management System\obj\Debug\University_Management_System.Student_grade.resources
+F:\C# Project\University Management System\University Management System\obj\Debug\University_Management_System.Admin_home.resources
+F:\C# Project\University Management System\University Management System\obj\Debug\University_Management_System.Admin_department.resources
+F:\C# Project\University Management System\University Management System\obj\Debug\University_Management_System.Faculty_Profile.resources
+F:\C# Project\University Management System\University Management System\obj\Debug\University_Management_System.Admin_Faculty.resources
+F:\C# Project\University Management System\University Management System\obj\Debug\University_Management_System.Admin_Students.resources
+F:\C# Project\University Management System\University Management System\obj\Debug\University_Management_System.Admin_Courses.resources
+F:\C# Project\University Management System\University Management System\obj\Debug\University_Management_System.Faculty_dept.resources
+F:\C# Project\University Management System\University Management System\obj\Debug\University_Management_System.faculty_courses.resources
+F:\C# Project\University Management System\University Management System\obj\Debug\University_Management_System.Admin_accounts.resources
+F:\C# Project\University Management System\University Management System\obj\Debug\University_Management_System.Faculty_financ.resources
+F:\C# Project\University Management System\University Management System\obj\Debug\University_Management_System.Student_financ.resources
+C:\Users\User\Downloads\University Management System\University Management System\University Management System\bin\Debug\University Management System.exe.config
+C:\Users\User\Downloads\University Management System\University Management System\University Management System\bin\Debug\University Management System.exe
+C:\Users\User\Downloads\University Management System\University Management System\University Management System\bin\Debug\University Management System.pdb
+C:\Users\User\Downloads\University Management System\University Management System\University Management System\obj\Debug\University Management System.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\University Management System\University Management System\University Management System\obj\Debug\University Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\University Management System\University Management System\University Management System\obj\Debug\University_Management_System.Admin_Courses.resources
+C:\Users\User\Downloads\University Management System\University Management System\University Management System\obj\Debug\University_Management_System.Administrator_LogIn.resources
+C:\Users\User\Downloads\University Management System\University Management System\University Management System\obj\Debug\University_Management_System.Admin_accounts.resources
+C:\Users\User\Downloads\University Management System\University Management System\University Management System\obj\Debug\University_Management_System.Admin_Faculty.resources
+C:\Users\User\Downloads\University Management System\University Management System\University Management System\obj\Debug\University_Management_System.Admin_home.resources
+C:\Users\User\Downloads\University Management System\University Management System\University Management System\obj\Debug\University_Management_System.Admin_Students.resources
+C:\Users\User\Downloads\University Management System\University Management System\University Management System\obj\Debug\University_Management_System.Faculty_LogIn.resources
+C:\Users\User\Downloads\University Management System\University Management System\University Management System\obj\Debug\University_Management_System.Faculty_Profile.resources
+C:\Users\User\Downloads\University Management System\University Management System\University Management System\obj\Debug\University_Management_System.Form1.resources
+C:\Users\User\Downloads\University Management System\University Management System\University Management System\obj\Debug\University_Management_System.Properties.Resources.resources
+C:\Users\User\Downloads\University Management System\University Management System\University Management System\obj\Debug\University_Management_System.Student_Admission_Form.resources
+C:\Users\User\Downloads\University Management System\University Management System\University Management System\obj\Debug\University_Management_System.Student_LogIn.resources
+C:\Users\User\Downloads\University Management System\University Management System\University Management System\obj\Debug\University_Management_System.Student_profile.resources
+C:\Users\User\Downloads\University Management System\University Management System\University Management System\obj\Debug\University Management System.csproj.GenerateResource.cache
+C:\Users\User\Downloads\University Management System\University Management System\University Management System\obj\Debug\University Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\University Management System\University Management System\University Management System\obj\Debug\University Management System.exe
+C:\Users\User\Downloads\University Management System\University Management System\University Management System\obj\Debug\University Management System.pdb
+C:\Users\User\Downloads\University Management System\University Management System\University Management System\bin\Debug\System.Data.SqlClient.dll
+C:\Users\User\Downloads\University Management System\University Management System\University Management System\bin\Debug\System.Data.SqlClient.xml
+C:\Users\User\Downloads\University Management System\University Management System\University Management System\obj\Debug\University Management System.csproj.CopyComplete
+C:\Users\User\Downloads\University Management System\University Management System\University Management System\obj\Debug\University_Management_System.Forget_Password.resources
+C:\Users\User\Downloads\University Management System\University Management System\University Management System\bin\Debug\Guna.UI2.dll
+C:\Users\User\Downloads\University Management System\University Management System\University Management System\obj\Debug\University_Management_System.Account_Info.resources
+C:\Users\User\Downloads\University Management System\University Management System\University Management System\obj\Debug\University_Management_System.Admin_Employee.resources
+C:\Users\User\Downloads\Group2\University Management System\University Management System\bin\Debug\University Management System.exe.config
+C:\Users\User\Downloads\Group2\University Management System\University Management System\bin\Debug\University Management System.exe
+C:\Users\User\Downloads\Group2\University Management System\University Management System\bin\Debug\University Management System.pdb
+C:\Users\User\Downloads\Group2\University Management System\University Management System\bin\Debug\Guna.UI2.dll
+C:\Users\User\Downloads\Group2\University Management System\University Management System\bin\Debug\System.Data.SqlClient.dll
+C:\Users\User\Downloads\Group2\University Management System\University Management System\bin\Debug\System.Data.SqlClient.xml
+C:\Users\User\Downloads\Group2\University Management System\University Management System\obj\Debug\University Management System.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Group2\University Management System\University Management System\obj\Debug\University Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\Group2\University Management System\University Management System\obj\Debug\University_Management_System.Account_Info.resources
+C:\Users\User\Downloads\Group2\University Management System\University Management System\obj\Debug\University_Management_System.Admin_Courses.resources
+C:\Users\User\Downloads\Group2\University Management System\University Management System\obj\Debug\University_Management_System.Administrator_LogIn.resources
+C:\Users\User\Downloads\Group2\University Management System\University Management System\obj\Debug\University_Management_System.Admin_accounts.resources
+C:\Users\User\Downloads\Group2\University Management System\University Management System\obj\Debug\University_Management_System.Admin_Employee.resources
+C:\Users\User\Downloads\Group2\University Management System\University Management System\obj\Debug\University_Management_System.Admin_Faculty.resources
+C:\Users\User\Downloads\Group2\University Management System\University Management System\obj\Debug\University_Management_System.Admin_home.resources
+C:\Users\User\Downloads\Group2\University Management System\University Management System\obj\Debug\University_Management_System.Admin_Students.resources
+C:\Users\User\Downloads\Group2\University Management System\University Management System\obj\Debug\University_Management_System.Faculty_LogIn.resources
+C:\Users\User\Downloads\Group2\University Management System\University Management System\obj\Debug\University_Management_System.Faculty_Profile.resources
+C:\Users\User\Downloads\Group2\University Management System\University Management System\obj\Debug\University_Management_System.Forget_Password.resources
+C:\Users\User\Downloads\Group2\University Management System\University Management System\obj\Debug\University_Management_System.Form1.resources
+C:\Users\User\Downloads\Group2\University Management System\University Management System\obj\Debug\University_Management_System.Properties.Resources.resources
+C:\Users\User\Downloads\Group2\University Management System\University Management System\obj\Debug\University_Management_System.Student_Admission_Form.resources
+C:\Users\User\Downloads\Group2\University Management System\University Management System\obj\Debug\University_Management_System.Student_LogIn.resources
+C:\Users\User\Downloads\Group2\University Management System\University Management System\obj\Debug\University_Management_System.Student_profile.resources
+C:\Users\User\Downloads\Group2\University Management System\University Management System\obj\Debug\University Management System.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Group2\University Management System\University Management System\obj\Debug\University Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Group2\University Management System\University Management System\obj\Debug\University Management System.csproj.CopyComplete
+C:\Users\User\Downloads\Group2\University Management System\University Management System\obj\Debug\University Management System.exe
+C:\Users\User\Downloads\Group2\University Management System\University Management System\obj\Debug\University Management System.pdb
+C:\Users\User\Downloads\Group2\Group2\University Management System\University Management System\obj\Debug\University Management System.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Group2\Group2\University Management System\University Management System\obj\Debug\University Management System.exe
+C:\Users\User\Downloads\Group2\Group2\University Management System\University Management System\obj\Debug\University Management System.pdb

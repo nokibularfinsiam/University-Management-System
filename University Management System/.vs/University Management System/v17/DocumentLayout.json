@@ -1,0 +1,560 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|c:\\users\\user\\downloads\\group2\\group2\\university management system\\university management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\forget_password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\forget_password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|c:\\users\\user\\downloads\\group2\\group2\\university management system\\university management system\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\student admission form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\student admission form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\student login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\student login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\student profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\student profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|c:\\users\\user\\downloads\\group2\\group2\\university management system\\university management system\\university_managedataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\university_managedataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\faculty_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\faculty_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\account info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\account info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\administrator login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\administrator login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\student login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\student login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\faculty login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\faculty login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\administrator login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\administrator login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\faculty login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\faculty login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\admin_faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\admin_faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\admin_students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\admin_students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\admin courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\admin courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\admin courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\admin courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\admin_accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\admin_accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\admin_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\admin_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\faculty_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\faculty_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\admin_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\admin_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\admin_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\admin_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\student profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\student profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\admin_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\admin_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\admin_faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\admin_faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\admin_students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\admin_students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\student login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\student login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\account info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\account info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\admin_accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\admin_accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\admin_faculty.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\admin_faculty.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\university management system\\faculty login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE6A729-F10F-42B4-9435-9B30F0CC0535}|University Management System\\University Management System.csproj|solutionrelative:university management system\\faculty login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\packages.config",
+              "RelativeDocumentMoniker": "University Management System\\packages.config",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\packages.config",
+              "RelativeToolTip": "University Management System\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-06T15:56:52.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student LogIn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Student LogIn.cs",
+              "RelativeDocumentMoniker": "University Management System\\Student LogIn.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Student LogIn.cs [Design]",
+              "RelativeToolTip": "University Management System\\Student LogIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:20.047Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Function.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Function.cs",
+              "RelativeDocumentMoniker": "University Management System\\Function.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Function.cs",
+              "RelativeToolTip": "University Management System\\Function.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:20.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Form1.cs",
+              "RelativeDocumentMoniker": "University Management System\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Form1.cs [Design]",
+              "RelativeToolTip": "University Management System\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:20.15Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Forget_Password.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Forget_Password.cs",
+              "RelativeDocumentMoniker": "University Management System\\Forget_Password.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Forget_Password.cs [Design]",
+              "RelativeToolTip": "University Management System\\Forget_Password.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:54:47.69Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student profile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Student profile.cs",
+              "RelativeDocumentMoniker": "University Management System\\Student profile.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Student profile.cs [Design]",
+              "RelativeToolTip": "University Management System\\Student profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:20.135Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "University_manageDataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\University_manageDataSet.xsd",
+              "RelativeDocumentMoniker": "University Management System\\University_manageDataSet.xsd",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\University_manageDataSet.xsd",
+              "RelativeToolTip": "University Management System\\University_manageDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-09-06T15:56:42.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Form1.cs",
+              "RelativeDocumentMoniker": "University Management System\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Form1.cs",
+              "RelativeToolTip": "University Management System\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:52:25.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student Admission Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Student Admission Form.cs",
+              "RelativeDocumentMoniker": "University Management System\\Student Admission Form.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Student Admission Form.cs [Design]",
+              "RelativeToolTip": "University Management System\\Student Admission Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:20.138Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Faculty_Profile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Faculty_Profile.cs",
+              "RelativeDocumentMoniker": "University Management System\\Faculty_Profile.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Faculty_Profile.cs [Design]",
+              "RelativeToolTip": "University Management System\\Faculty_Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:20.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Account Info.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Account Info.cs",
+              "RelativeDocumentMoniker": "University Management System\\Account Info.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Account Info.cs [Design]",
+              "RelativeToolTip": "University Management System\\Account Info.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:20.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student LogIn.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Student LogIn.cs",
+              "RelativeDocumentMoniker": "University Management System\\Student LogIn.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Student LogIn.cs",
+              "RelativeToolTip": "University Management System\\Student LogIn.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAIAwwEIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:20.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Administrator LogIn.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Administrator LogIn.cs",
+              "RelativeDocumentMoniker": "University Management System\\Administrator LogIn.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Administrator LogIn.cs",
+              "RelativeToolTip": "University Management System\\Administrator LogIn.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAIAwwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:20.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Administrator LogIn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Administrator LogIn.cs",
+              "RelativeDocumentMoniker": "University Management System\\Administrator LogIn.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Administrator LogIn.cs [Design]",
+              "RelativeToolTip": "University Management System\\Administrator LogIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:19.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Faculty LogIn.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Faculty LogIn.cs",
+              "RelativeDocumentMoniker": "University Management System\\Faculty LogIn.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Faculty LogIn.cs",
+              "RelativeToolTip": "University Management System\\Faculty LogIn.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAIAwwDMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:20.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Faculty LogIn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Faculty LogIn.cs",
+              "RelativeDocumentMoniker": "University Management System\\Faculty LogIn.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Faculty LogIn.cs [Design]",
+              "RelativeToolTip": "University Management System\\Faculty LogIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:20.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Admin_Faculty.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Admin_Faculty.cs",
+              "RelativeDocumentMoniker": "University Management System\\Admin_Faculty.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Admin_Faculty.cs [Design]",
+              "RelativeToolTip": "University Management System\\Admin_Faculty.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:20.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Admin_Students.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Admin_Students.cs",
+              "RelativeDocumentMoniker": "University Management System\\Admin_Students.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Admin_Students.cs [Design]",
+              "RelativeToolTip": "University Management System\\Admin_Students.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:20.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Admin_Employee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Admin_Employee.cs",
+              "RelativeDocumentMoniker": "University Management System\\Admin_Employee.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Admin_Employee.cs [Design]",
+              "RelativeToolTip": "University Management System\\Admin_Employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:20.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Admin Courses.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Admin Courses.cs",
+              "RelativeDocumentMoniker": "University Management System\\Admin Courses.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Admin Courses.cs",
+              "RelativeToolTip": "University Management System\\Admin Courses.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAAALEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:20.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Admin Courses.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Admin Courses.cs",
+              "RelativeDocumentMoniker": "University Management System\\Admin Courses.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Admin Courses.cs [Design]",
+              "RelativeToolTip": "University Management System\\Admin Courses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:20.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Admin_accounts.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Admin_accounts.cs",
+              "RelativeDocumentMoniker": "University Management System\\Admin_accounts.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Admin_accounts.cs [Design]",
+              "RelativeToolTip": "University Management System\\Admin_accounts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:20.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Faculty_Profile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Faculty_Profile.cs",
+              "RelativeDocumentMoniker": "University Management System\\Faculty_Profile.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Faculty_Profile.cs",
+              "RelativeToolTip": "University Management System\\Faculty_Profile.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAIAwwBcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:20.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Admin_home.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Admin_home.cs",
+              "RelativeDocumentMoniker": "University Management System\\Admin_home.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Admin_home.cs",
+              "RelativeToolTip": "University Management System\\Admin_home.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAIAwwDgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:20.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Student profile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Student profile.cs",
+              "RelativeDocumentMoniker": "University Management System\\Student profile.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Student profile.cs",
+              "RelativeToolTip": "University Management System\\Student profile.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIAwwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:20.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Admin_home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Admin_home.cs",
+              "RelativeDocumentMoniker": "University Management System\\Admin_home.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Admin_home.cs [Design]",
+              "RelativeToolTip": "University Management System\\Admin_home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:20.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Admin_Employee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Admin_Employee.cs",
+              "RelativeDocumentMoniker": "University Management System\\Admin_Employee.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Admin_Employee.cs",
+              "RelativeToolTip": "University Management System\\Admin_Employee.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAAAHAAAACbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:20.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Admin_Faculty.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Admin_Faculty.cs",
+              "RelativeDocumentMoniker": "University Management System\\Admin_Faculty.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Admin_Faculty.cs",
+              "RelativeToolTip": "University Management System\\Admin_Faculty.cs",
+              "ViewState": "AQIAAPgAAAAAAAAAAAAjwA8BAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:20.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Admin_Students.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Admin_Students.cs",
+              "RelativeDocumentMoniker": "University Management System\\Admin_Students.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Admin_Students.cs",
+              "RelativeToolTip": "University Management System\\Admin_Students.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAApwIAAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:20.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Student LogIn.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Student LogIn.Designer.cs",
+              "RelativeDocumentMoniker": "University Management System\\Student LogIn.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Student LogIn.Designer.cs",
+              "RelativeToolTip": "University Management System\\Student LogIn.Designer.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAowI0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:20.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Admin_accounts.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Admin_accounts.cs",
+              "RelativeDocumentMoniker": "University Management System\\Admin_accounts.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Admin_accounts.cs",
+              "RelativeToolTip": "University Management System\\Admin_accounts.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAiwIwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:20.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Account Info.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Account Info.cs",
+              "RelativeDocumentMoniker": "University Management System\\Account Info.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Account Info.cs",
+              "RelativeToolTip": "University Management System\\Account Info.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAEMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:20.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Admin_Faculty.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Admin_Faculty.Designer.cs",
+              "RelativeDocumentMoniker": "University Management System\\Admin_Faculty.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Admin_Faculty.Designer.cs",
+              "RelativeToolTip": "University Management System\\Admin_Faculty.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:20.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Faculty LogIn.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Faculty LogIn.Designer.cs",
+              "RelativeDocumentMoniker": "University Management System\\Faculty LogIn.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Group2\\Group2\\University Management System\\University Management System\\Faculty LogIn.Designer.cs",
+              "RelativeToolTip": "University Management System\\Faculty LogIn.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:47:20.149Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

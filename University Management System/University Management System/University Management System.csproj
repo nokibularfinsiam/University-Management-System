@@ -1,0 +1,703 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DEE6A729-F10F-42B4-9435-9B30F0CC0535}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>University_Management_System</RootNamespace>
+    <AssemblyName>University Management System</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\..\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlClient, Version=4.6.1.5, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SqlClient.4.8.5\lib\net461\System.Data.SqlClient.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Account Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Account Info.Designer.cs">
+      <DependentUpon>Account Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin Courses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin Courses.Designer.cs">
+      <DependentUpon>Admin Courses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrator LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrator LogIn.Designer.cs">
+      <DependentUpon>Administrator LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_accounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_accounts.Designer.cs">
+      <DependentUpon>Admin_accounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Employee.Designer.cs">
+      <DependentUpon>Admin_Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Faculty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Faculty.Designer.cs">
+      <DependentUpon>Admin_Faculty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_home.Designer.cs">
+      <DependentUpon>Admin_home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Students.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Students.Designer.cs">
+      <DependentUpon>Admin_Students.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Faculty LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Faculty LogIn.Designer.cs">
+      <DependentUpon>Faculty LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Faculty_Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Faculty_Profile.Designer.cs">
+      <DependentUpon>Faculty_Profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forget_Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forget_Password.Designer.cs">
+      <DependentUpon>Forget_Password.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Function.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Student Admission Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student Admission Form.Designer.cs">
+      <DependentUpon>Student Admission Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student LogIn.Designer.cs">
+      <DependentUpon>Student LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student profile.Designer.cs">
+      <DependentUpon>Student profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="University_manageDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>University_manageDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="University_manageDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>University_manageDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="University_manageDataSet10.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>University_manageDataSet10.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="University_manageDataSet111.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>University_manageDataSet111.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="University_manageDataSet12.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>University_manageDataSet12.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="University_manageDataSet13.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>University_manageDataSet13.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="University_manageDataSet14.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>University_manageDataSet14.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="University_manageDataSet15.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>University_manageDataSet15.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="University_manageDataSet16.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>University_manageDataSet16.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="University_manageDataSet17.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>University_manageDataSet17.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="University_manageDataSet18.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>University_manageDataSet18.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="University_manageDataSet19.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>University_manageDataSet19.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="University_manageDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>University_manageDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="University_manageDataSet20.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>University_manageDataSet20.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="University_manageDataSet21.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>University_manageDataSet21.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="University_manageDataSet22.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>University_manageDataSet22.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="University_manageDataSet23.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>University_manageDataSet23.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="University_manageDataSet24.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>University_manageDataSet24.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="University_manageDataSet25.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>University_manageDataSet25.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="University_manageDataSet26.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>University_manageDataSet26.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="University_manageDataSet27.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>University_manageDataSet27.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="University_manageDataSet28.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>University_manageDataSet28.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="University_manageDataSet29.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>University_manageDataSet29.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="University_manageDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>University_manageDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="University_manageDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>University_manageDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="University_manageDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>University_manageDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="University_manageDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>University_manageDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="University_manageDataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>University_manageDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="University_manageDataSet8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>University_manageDataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="University_manageDataSet9.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>University_manageDataSet9.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Account Info.resx">
+      <DependentUpon>Account Info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin Courses.resx">
+      <DependentUpon>Admin Courses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrator LogIn.resx">
+      <DependentUpon>Administrator LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_accounts.resx">
+      <DependentUpon>Admin_accounts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Employee.resx">
+      <DependentUpon>Admin_Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Faculty.resx">
+      <DependentUpon>Admin_Faculty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_home.resx">
+      <DependentUpon>Admin_home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Students.resx">
+      <DependentUpon>Admin_Students.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Faculty LogIn.resx">
+      <DependentUpon>Faculty LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Faculty_Profile.resx">
+      <DependentUpon>Faculty_Profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forget_Password.resx">
+      <DependentUpon>Forget_Password.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Student Admission Form.resx">
+      <DependentUpon>Student Admission Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student LogIn.resx">
+      <DependentUpon>Student LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student profile.resx">
+      <DependentUpon>Student profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="University_manageDataSet.xsc">
+      <DependentUpon>University_manageDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>University_manageDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="University_manageDataSet.xss">
+      <DependentUpon>University_manageDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet1.xsc">
+      <DependentUpon>University_manageDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>University_manageDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="University_manageDataSet1.xss">
+      <DependentUpon>University_manageDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet10.xsc">
+      <DependentUpon>University_manageDataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet10.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>University_manageDataSet10.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="University_manageDataSet10.xss">
+      <DependentUpon>University_manageDataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet111.xsc">
+      <DependentUpon>University_manageDataSet111.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet111.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>University_manageDataSet111.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="University_manageDataSet111.xss">
+      <DependentUpon>University_manageDataSet111.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet12.xsc">
+      <DependentUpon>University_manageDataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet12.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>University_manageDataSet12.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="University_manageDataSet12.xss">
+      <DependentUpon>University_manageDataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet13.xsc">
+      <DependentUpon>University_manageDataSet13.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet13.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>University_manageDataSet13.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="University_manageDataSet13.xss">
+      <DependentUpon>University_manageDataSet13.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet14.xsc">
+      <DependentUpon>University_manageDataSet14.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet14.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>University_manageDataSet14.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="University_manageDataSet14.xss">
+      <DependentUpon>University_manageDataSet14.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet15.xsc">
+      <DependentUpon>University_manageDataSet15.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet15.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>University_manageDataSet15.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="University_manageDataSet15.xss">
+      <DependentUpon>University_manageDataSet15.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet16.xsc">
+      <DependentUpon>University_manageDataSet16.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet16.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>University_manageDataSet16.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="University_manageDataSet16.xss">
+      <DependentUpon>University_manageDataSet16.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet17.xsc">
+      <DependentUpon>University_manageDataSet17.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet17.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>University_manageDataSet17.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="University_manageDataSet17.xss">
+      <DependentUpon>University_manageDataSet17.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet18.xsc">
+      <DependentUpon>University_manageDataSet18.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet18.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>University_manageDataSet18.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="University_manageDataSet18.xss">
+      <DependentUpon>University_manageDataSet18.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet19.xsc">
+      <DependentUpon>University_manageDataSet19.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet19.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>University_manageDataSet19.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="University_manageDataSet19.xss">
+      <DependentUpon>University_manageDataSet19.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet2.xsc">
+      <DependentUpon>University_manageDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>University_manageDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="University_manageDataSet2.xss">
+      <DependentUpon>University_manageDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet20.xsc">
+      <DependentUpon>University_manageDataSet20.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet20.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>University_manageDataSet20.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="University_manageDataSet20.xss">
+      <DependentUpon>University_manageDataSet20.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet21.xsc">
+      <DependentUpon>University_manageDataSet21.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet21.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>University_manageDataSet21.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="University_manageDataSet21.xss">
+      <DependentUpon>University_manageDataSet21.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet22.xsc">
+      <DependentUpon>University_manageDataSet22.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet22.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>University_manageDataSet22.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="University_manageDataSet22.xss">
+      <DependentUpon>University_manageDataSet22.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet23.xsc">
+      <DependentUpon>University_manageDataSet23.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet23.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>University_manageDataSet23.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="University_manageDataSet23.xss">
+      <DependentUpon>University_manageDataSet23.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet24.xsc">
+      <DependentUpon>University_manageDataSet24.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet24.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>University_manageDataSet24.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="University_manageDataSet24.xss">
+      <DependentUpon>University_manageDataSet24.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet25.xsc">
+      <DependentUpon>University_manageDataSet25.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet25.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>University_manageDataSet25.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="University_manageDataSet25.xss">
+      <DependentUpon>University_manageDataSet25.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet26.xsc">
+      <DependentUpon>University_manageDataSet26.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet26.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>University_manageDataSet26.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="University_manageDataSet26.xss">
+      <DependentUpon>University_manageDataSet26.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet27.xsc">
+      <DependentUpon>University_manageDataSet27.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet27.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>University_manageDataSet27.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="University_manageDataSet27.xss">
+      <DependentUpon>University_manageDataSet27.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet28.xsc">
+      <DependentUpon>University_manageDataSet28.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet28.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>University_manageDataSet28.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="University_manageDataSet28.xss">
+      <DependentUpon>University_manageDataSet28.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet29.xsc">
+      <DependentUpon>University_manageDataSet29.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet29.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>University_manageDataSet29.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="University_manageDataSet29.xss">
+      <DependentUpon>University_manageDataSet29.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet3.xsc">
+      <DependentUpon>University_manageDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>University_manageDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="University_manageDataSet3.xss">
+      <DependentUpon>University_manageDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet4.xsc">
+      <DependentUpon>University_manageDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>University_manageDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="University_manageDataSet4.xss">
+      <DependentUpon>University_manageDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet5.xsc">
+      <DependentUpon>University_manageDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>University_manageDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="University_manageDataSet5.xss">
+      <DependentUpon>University_manageDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet6.xsc">
+      <DependentUpon>University_manageDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>University_manageDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="University_manageDataSet6.xss">
+      <DependentUpon>University_manageDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet7.xsc">
+      <DependentUpon>University_manageDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>University_manageDataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="University_manageDataSet7.xss">
+      <DependentUpon>University_manageDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet8.xsc">
+      <DependentUpon>University_manageDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>University_manageDataSet8.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="University_manageDataSet8.xss">
+      <DependentUpon>University_manageDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet9.xsc">
+      <DependentUpon>University_manageDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="University_manageDataSet9.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>University_manageDataSet9.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="University_manageDataSet9.xss">
+      <DependentUpon>University_manageDataSet9.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
