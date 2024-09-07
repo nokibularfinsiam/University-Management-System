@@ -8,7 +8,7 @@
 
 ## Login, Registration Pages
 
-!(https://github.com/nokibularfinsiam/University-Management-System-C-Sharp-porject/blob/main/ui-ux/registration_form.png)
+![Registration Form](https://github.com/nokibularfinsiam/University-Management-System-C-Sharp-porject/blob/main/ui-ux/registration%20form.png)
 ![Admin Login](https://github.com/nokibularfinsiam/University-Management-System-C-Sharp-porject/blob/main/ui-ux/Admin_login.png)
 ![Forgot Password](https://github.com/nokibularfinsiam/University-Management-System-C-Sharp-porject/blob/main/ui-ux/forget_pass.png)
 
